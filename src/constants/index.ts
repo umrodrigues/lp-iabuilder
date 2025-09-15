@@ -15,7 +15,7 @@ export const SITE_CONFIG = {
 
 export const COURSE_INFO = {
   date: 'Quinta-feira',
-  time: '19:00 às 21:00',
+  time: '19:30 às 21:30',
   duration: '2 horas',
   format: 'Online ao vivo + Gravação',
   language: 'Português (Brasil)'
