@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = '555193554454'
+export const WHATSAPP_NUMBER = '5551994810306'
 export const WHATSAPP_MESSAGE = 'Olá! Tenho interesse no Treinamento Imersivo IA. Gostaria de mais informações sobre como garantir minha vaga.'
 
 export const SITE_CONFIG = {
