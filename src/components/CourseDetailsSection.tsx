@@ -87,7 +87,7 @@ export default function CourseDetailsSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Data</h4>
-                  <p className="text-gray-600">Quinta-feira, 19 de Dezembro</p>
+                  <p className="text-gray-600">Quinta-feira, 18 de Setembro</p>
                 </div>
               </div>
 
@@ -97,7 +97,7 @@ export default function CourseDetailsSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Horário</h4>
-                  <p className="text-gray-600">19:00 às 21:00 (Brasília)</p>
+                  <p className="text-gray-600">19:30 às 21:30 (Brasília)</p>
                 </div>
               </div>
 
