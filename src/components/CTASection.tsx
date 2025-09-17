@@ -45,9 +45,8 @@ export default function CTASection() {
               <div className="space-y-4">
                 {[
                   "Curso completo de 2 horas",
-                  "E-book exclusivo (50+ páginas)",
+                  "E-book exclusivo",
                   "Templates de prompts prontos",
-                  "Certificado de participação",
                   "Gravação do evento",
                   "Grupo VIP no WhatsApp"
                 ].map((item, index) => (

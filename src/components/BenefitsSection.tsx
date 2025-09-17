@@ -10,7 +10,7 @@ export default function BenefitsSection() {
     {
       icon: BookOpen,
       title: "E-book Exclusivo",
-      description: "Guia completo com 50+ estratégias de IA para empresários",
+      description: "Guia completo com estratégias de IA para empresários",
       color: "from-purple-500 to-purple-600"
     },
     {
@@ -107,7 +107,7 @@ export default function BenefitsSection() {
               <div className="bg-white/10 rounded-2xl p-6">
                 <Download className="w-8 h-8 mx-auto mb-4" />
                 <h4 className="text-xl font-bold mb-2">E-book Completo</h4>
-                <p className="opacity-90">50+ páginas com estratégias práticas</p>
+                <p className="opacity-90">Estratégias práticas para implementar IA</p>
               </div>
               <div className="bg-white/10 rounded-2xl p-6">
                 <Zap className="w-8 h-8 mx-auto mb-4" />

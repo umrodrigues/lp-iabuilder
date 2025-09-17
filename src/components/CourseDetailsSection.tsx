@@ -41,11 +41,6 @@ export default function CourseDetailsSection() {
       description: "Aplique o que aprender no mesmo dia"
     },
     {
-      icon: Award,
-      title: "Certificado",
-      description: "Receba um certificado de participação"
-    },
-    {
       icon: Users,
       title: "Networking",
       description: "Conecte-se com outros empresários inovadores"
